@@ -1,0 +1,56 @@
+body {
+  margin: 0 auto;
+  background-color: lightblue;
+  background-repeat: no-repeat;
+  background-size:100% 720px;
+
+}
+
+.container{
+  width: 450px;
+  height: 400px;
+  text-align: center;
+background-color: rgba(52, 73, 94,0.3);
+border-radius: 4px;
+  margin: 0 auto;
+  margin-top: 150px;
+
+}
+
+.container img{
+  width: 100px;
+  height: 120px;
+  margin-top: -60px;
+  margin-bottom: 30px;
+}
+
+input[type="text"],input[type="password"]{
+  height: 45px;
+  width: 320px;
+  font-size: 18px;
+  margin-bottom: 20px;
+  background-color: #fff;
+  padding-left: 30px;
+}
+
+form-input::before{
+  content: "";
+  position: absolute;
+  font-family:"Informal Roman";
+  font-size: 30px;
+}
+
+.btn-login{
+  padding: 15px 30px;
+  color: #fff;
+  border-radius: 4px;
+  background-color: #34aafc;
+  border: none;
+  border-bottom: 4px solid #34c8fc;
+  margin-bottom: 15px;
+
+}
+
+p{
+  color: #fff;
+}

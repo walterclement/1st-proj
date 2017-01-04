@@ -1,0 +1,150 @@
+body{
+font-family: sans-serif,Arial;
+color: white;
+font-weight: 300;
+background-color: #53e3a6;
+}
+
+.form1 input[type="text"] {
+  margin-top: 190px;
+  margin-left: 510px;
+  text-align: center;
+  text-transform: lowercase;
+  height: 40px;
+  width:190px;
+  border: 1px solid rgba(255,255,255,0.4);
+  background-color: rgba(255,255,255,0.2);
+
+
+}
+.form2{
+  padding-left: 730px;
+  margin-top: -38px;
+}
+
+ .formin2 input[type="text"]
+ {
+   text-align: center;
+   height: 40px;
+   width: 190px;
+   border: 1px solid rgba(255,255,255,0.4);
+   background-color: rgba(255,255,255,0.2);
+ }
+
+ .form3
+{
+  padding-left: 510px;
+  margin-top: 15px;
+
+}
+
+.formin3 input[type="text"]
+{
+  text-align: center;
+  height: 40px;
+  width: 410px;
+  border: 1px solid rgba(255,255,255,0.4);
+  background-color: rgba(255,255,255,0.2);
+}
+
+.form4
+{
+ padding-left: 510px;
+ margin-top: 15px;
+
+}
+.formin4 input[type="text" ]
+{
+  text-align: center;
+  height: 40px;
+  width: 410px;
+  border: 1px solid rgba(255,255,255,0.4);
+  background-color: rgba(255,255,255,0.2);
+}
+.form5
+{
+ padding-left: 510px;
+ margin-top: 15px;
+
+}
+.formin5 input[type="text" ]
+{
+  text-align: center;
+  height: 40px;
+  width: 410px;
+  border: 1px solid rgba(255,255,255,0.4);
+  background-color: rgba(255,255,255,0.2);
+}
+
+.form6
+{
+ padding-left: 510px;
+ margin-top: 15px;
+
+}
+.formin6 input[type="text" ]
+{
+  text-align: center;
+  height: 40px;
+  width: 410px;
+  border: 1px solid rgba(255,255,255,0.4);
+  background-color: rgba(255,255,255,0.2);
+}
+
+.form7
+{
+ padding-left: 510px;
+ margin-top: 15px;
+
+}
+.formin7 input[type="text" ]
+{
+  text-align: center;
+  height: 40px;
+  width: 410px;
+  border: 1px solid rgba(255,255,255,0.4);
+  background-color: rgba(255,255,255,0.2);
+}
+.form8
+{
+ padding-left: 510px;
+ margin-top: 15px;
+
+}
+.formin8 input[type="text" ]
+{
+  text-align: center;
+  height: 40px;
+  width: 410px;
+  border: 1px solid rgba(255,255,255,0.4);
+  background-color: rgba(255,255,255,0.2);
+}
+
+.container
+{
+  margin-left:-50px;
+  margin-top: -30px;
+}
+
+form button{
+  background-color: white;
+  outline: 0;
+  border: 0;
+  padding: 10px 15px;
+  color: #53e3a6;
+  border-radius: 3px;
+  width: 150px;
+  cursor: pointer;
+  font-size: 12px;
+  }
+
+  form button: hover
+  {
+    background-color: #ff006e;
+
+  }
+
+  .form9{
+    margin-left: 637px;
+    margin-top: 20px;
+  }
